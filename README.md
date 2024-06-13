@@ -15,9 +15,9 @@
 Mechanical Technician Precision Skills Co-op Program, Georgian College, Barrie ON		2018-2020
 •	CNC process and Fixture Technology, CAD CAM Design, CNC Applications, Basic Machine Tool Application, Interpreting Engineering Drawings
  
-**Experience**
+# Experience
 
-# Machine Operator
+*Machine Operator*
 Gracious Living Innovation
 151 Courtneypark Dr W, Mississauga, ON L5W 1Y5
 •	Set up machine, control and adjust machine settings (eg: speed, feed, axis)
@@ -25,7 +25,7 @@ Gracious Living Innovation
 •	Testing parts and fixing issues that might occur during the shift
 •	Keep records of approved and defective units or final products along with activity logs.
 
-# HDPE CNC Router Operator
+*HDPE CNC Router Operator*
  Roechling Engeering Plastics
 21 Tideman Dr, Orangeville, ON L9W 3K3
 •	Measure and verify all calculations prior to setting up the machinery
