@@ -15,7 +15,7 @@
 Mechanical Technician Precision Skills Co-op Program, Georgian College, Barrie ON		2018-2020
 •	CNC process and Fixture Technology, CAD CAM Design, CNC Applications, Basic Machine Tool Application, Interpreting Engineering Drawings
  
-# Experience
+**Experience**
 
 # Machine Operator
 Gracious Living Innovation
