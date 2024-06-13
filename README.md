@@ -1,5 +1,3 @@
-# HTTP5114Summer24
-
 # My Highlights
 •	Design and create programs on MasterCam for both mill and lathe machines.
 •	Experience using Inventor, MasterCam and create drawing files of both 2d and 3d sketches and able to read the blueprints. 
@@ -19,7 +17,7 @@ Mechanical Technician Precision Skills Co-op Program, Georgian College, Barrie O
  
 # Experience
 
-# Machine Operator 							April 2020-June 2021
+# Machine Operator
 Gracious Living Innovation
 151 Courtneypark Dr W, Mississauga, ON L5W 1Y5
 •	Set up machine, control and adjust machine settings (eg: speed, feed, axis)
@@ -27,7 +25,7 @@ Gracious Living Innovation
 •	Testing parts and fixing issues that might occur during the shift
 •	Keep records of approved and defective units or final products along with activity logs.
 
-# HDPE CNC Router Operator						June 2021-currently working
+# HDPE CNC Router Operator
  Roechling Engeering Plastics
 21 Tideman Dr, Orangeville, ON L9W 3K3
 •	Measure and verify all calculations prior to setting up the machinery
